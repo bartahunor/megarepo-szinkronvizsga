@@ -1,0 +1,3 @@
+﻿5999545590228; Primavera; ásványvíz; liter; szénsavmentes ásványvíz; 12; 67 Ft
+5998828591297; Theodora; ásványvíz; liter; Szén-dioxiddal enyhén dúsított természetes ásványvíz; 1000; 108 Ft
+5999545590129; Primavera; ásványvíz; liter; szénsavmentes természetes ásványvíz; 200; 71 Ft

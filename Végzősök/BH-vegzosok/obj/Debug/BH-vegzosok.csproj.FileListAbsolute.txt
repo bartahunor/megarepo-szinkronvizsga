@@ -1,0 +1,11 @@
+H:\Asztalkfej\Végzősök\BH-vegzosok\bin\Debug\BH-vegzosok.exe.config
+H:\Asztalkfej\Végzősök\BH-vegzosok\bin\Debug\BH-vegzosok.exe
+H:\Asztalkfej\Végzősök\BH-vegzosok\bin\Debug\BH-vegzosok.pdb
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.csproj.AssemblyReference.cache
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH_vegzosok.Form1.resources
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH_vegzosok.Properties.Resources.resources
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.csproj.GenerateResource.cache
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.csproj.CoreCompileInputs.cache
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.exe
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.pdb
+H:\Asztalkfej\Végzősök\BH-vegzosok\obj\Debug\BH-vegzosok.exe.config

@@ -1,0 +1,11 @@
+H:\Asztalkfej\BH-termekek\bin\Debug\BH-termekek.exe.config
+H:\Asztalkfej\BH-termekek\bin\Debug\BH-termekek.exe
+H:\Asztalkfej\BH-termekek\bin\Debug\BH-termekek.pdb
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.csproj.AssemblyReference.cache
+H:\Asztalkfej\BH-termekek\obj\Debug\BH_termekek.Form1.resources
+H:\Asztalkfej\BH-termekek\obj\Debug\BH_termekek.Properties.Resources.resources
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.csproj.GenerateResource.cache
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.csproj.CoreCompileInputs.cache
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.exe
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.pdb
+H:\Asztalkfej\BH-termekek\obj\Debug\BH-termekek.exe.config

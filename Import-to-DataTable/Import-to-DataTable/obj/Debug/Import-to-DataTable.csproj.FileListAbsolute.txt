@@ -1,0 +1,21 @@
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.AssemblyReference.cache
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import_to_DataTable.Properties.Resources.resources
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.GenerateResource.cache
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.CoreCompileInputs.cache
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.exe.config
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.exe
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.pdb
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.exe
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.pdb
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.exe.config
+H:\Tantárgyak\Asztali alkalmazások fejlesztése - 12.D-S1\Grafikus\DataTable\Import-to-DataTable\obj\Debug\CsvGuiApp.MainForm.resources
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.exe.config
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.exe
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\bin\Debug\Import-to-DataTable.pdb
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.AssemblyReference.cache
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\CsvGuiApp.MainForm.resources
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import_to_DataTable.Properties.Resources.resources
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.GenerateResource.cache
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.csproj.CoreCompileInputs.cache
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.exe
+C:\Sajat\informatika\c#\Import-to-DataTable\Import-to-DataTable\obj\Debug\Import-to-DataTable.pdb
