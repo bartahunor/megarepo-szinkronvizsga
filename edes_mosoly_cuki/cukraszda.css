@@ -1,0 +1,12 @@
+.bg-header {
+    background: url("assets/img/muffin.jpg");
+    height: 450px;
+}
+
+.szoveg {
+    color: #42122a;
+}
+
+#termekek, #szerencse {
+    background-color: #f7e1ae;
+}

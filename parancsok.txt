@@ -1,0 +1,42 @@
+cd - mappába belépés
+cd … - mappából kilépés
+npm run start - projekt indítása
+shift + ctrl + r - cache frissítés
+Set-ExecutionPolicy -Scope CurrentUser RemoteSigned - scriptek futtatásának engedélyezése
+
+
+BOOTSTRAP KÉPERNYŐK:
+col-lg --> nagy képernyő
+col-md --> közepes képernyő
+col-sm --> kis képernyő
+col-xs --> extra kicsi képernyő
+
+SZERVER VÁLASZOK:
+4 A kérés befejeződött, a válasz megérkezett.
+
+200 OK
+→ sikeres kérés
+
+201 Created
+→ sikeresen létrejött valami
+
+400 Bad Request
+→ hibás kérés
+
+401 Unauthorized
+→ nincs bejelentkezve / nincs jogosultság
+
+403 Forbidden
+→ tiltott hozzáférés
+
+404 Not Found
+→ nem található az oldal vagy API
+
+500 Internal Server Error
+→ szerverhiba
+
+502 Bad Gateway
+→ hibás szerver kapcsolat
+
+503 Service Unavailable
+→ a szerver nem elérhető
